@@ -1,0 +1,64 @@
+.logo {
+	margin-left: 280px;
+}
+
+Body{
+Margin: 0px;
+Padding: 0px;
+Font: poppins;
+}
+#main{
+Width: 100%;
+Height: 100vh;
+Position: relative;
+}
+.log{
+Width: 190px;
+Height: 44px;
+Display: flex;
+Justify-content: center;
+Align-items: center;
+Color: white;
+Background-color: #1db096;
+Border-radius: 20px;
+}
+Div{
+ Font-family: Arial, Helvetica, sans-serif;
+ Font-size: 40px;
+ Text-transform: uppercase;
+ Color:red;
+ Text-align: center ;
+ Text-decoration: underline;
+}
+.div2{
+ Text-align: center;
+}
+.div2 p1{
+ Cursor: pointer;
+ Font-size: inherit;
+ Text-align: center;
+ Color: rgb(70,70,70);
+ Text-decoration: underline;
+ Font-weight: 700;
+}
+Nav{
+Display: flex;
+Justify-content: space-around;
+Align-items: center;
+Position: fixed;
+Top: 0;
+Left: 0;
+Width: 100%;
+Background-color: white;
+Box-shadow:5px 10px 30px rgba(0, 0, 0, 0.02);
+z-index: 1;
+}
+.container {
+Display: inline-block;
+Cursor: pointer;
+}
+
+.div1
+{
+Margin-top: 150px;
+}
